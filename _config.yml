@@ -25,7 +25,7 @@ title: ShakesReel
 tagline: A database for Shakespearean film adaptations
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "ShakesReel serves as an exhaustive, public compendium of films, shorts, and series which were adapted from, or inspired by, one or more of the 38 plays written by William Shakespeare"
+description: "ShakesReel serves as an exhaustive, public compendium of films, shorts, and series which are adapted from, or inspired by, one or more of the 38 plays written by William Shakespeare"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Elijah Kibler
 
