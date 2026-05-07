@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Database
 
 Welcome to ShakesReel, an exhaustive, online compendium of films, videos, and series which are adapted from, or inspired by, one or more of the 38 plays written by William Shakespeare. This database gives users a means to curate and search through hundreds of Shakespearean motion-pictures throughout the full 130 years of cinematic history in a variety of ways, most notably via tags, timelines, and maps. As of this moment, the site contains over 380 entrees for five Shakespearean tragedies: Romeo and Juliet, Julius Caesar, Hamlet, King Lear, and Macbeth. Enjoy your visit, and feel free to download the website’s metadata in a reusable format (CSV and JSON files) for alternative use in larger computational studies. Below are some helpful notes for new users:
 
