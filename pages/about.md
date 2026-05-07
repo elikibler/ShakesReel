@@ -21,7 +21,7 @@ ShakesReel abides by [DublinCore](https://www.dublincore.org/specifications/dubl
 - The order that entrees appear in on the timeline is random and not at all the order of release throughout that respective year
 
 Videos:
-- ShakesReel uses YouTube videos as "items" due to copyright issues with most film posters. Most videos are trailers. However, if a film or video is available in full for free on YouTube, as is the case with most silent films, video productions, and foreign pictures, it is featured in our collection
+- ShakesReel uses YouTube videos as "items" due to copyright issues with most film posters. Most videos are trailers. However, if a film or video is available in full for free on YouTube and has not been removed from the platform for violating infringement rules, as is the case with most silent films, video productions, and foreign pictures, it is featured in our collection
 - If a YouTube video will not play, it is because the uploader has disabled embedding or restricted video privacy settings. These entrees will be replaced and corrected as they are caught by the site's moderator
 
 Tags:
