@@ -19,9 +19,11 @@ Welcome to ShakesReel, an exhaustive, online compendium of films, videos, and se
 ShakesReel abides by [DublinCore](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/) formatting rules and is thus limited in the ways in which it represents some data. Some pointers users should be aware of when navigating the site and digesting its data:
 - The "creator" label is for the director of the adaptation in question, not always the play production that the film captures
 - The order that entrees appear in on the timeline is random and not at all the order of release throughout that respective year
+
 Videos:
 - ShakesReel uses YouTube videos as "items" due to copyright issues with most film posters. Most videos are trailers. However, if a film or video is available in full for free on YouTube, as is the case with most silent films, video productions, and foreign pictures, it is featured in our collection
 - If a YouTube video will not play, it is because the uploader has disabled embedding or restricted video privacy settings. These entrees will be replaced and corrected as they are caught by the site's moderator
+
 Tags:
 - The order of information for each work's tags is as follows: adapted play, type of media (e.g., Silent, Feature, Short, Series, TV/Video/Recording), type of adaptation (Faithful/Direct or Loose/Inspired), genres, and actors
 - The most famous actors in an adapatation, if not all of them, are listed as the last tags for all entrees. Many are only in one film, but a handful are in several
