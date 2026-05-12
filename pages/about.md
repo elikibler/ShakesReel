@@ -31,7 +31,7 @@ Tags:
 - Due to the unique importance of regional cinemas throughout the country, adaptations specifically from India include additional Language tags following the genre tags in order to better differentiate the cultures and traditions associated with each
 
 Home Page Banner Image:
-- The banner image was found on [WallpaperCat.com](https://wallpapercat.com/), an online repository providing over 100,000 free, high-definition (HD) and 4K wallpapers for mobile phones and desktop computers. This specific image was uploaded to the site by @elnora13 and is a derivative work of "Portrait of William Shakespeare (1564-1616)" by John Taylor, used here under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- The banner image was found on [WallpaperCat.com](https://wallpapercat.com/), an online repository providing over 100,000 free, high-definition (HD) and 4K wallpapers for mobile phones and desktop computers. This specific image was uploaded to the site by @elnora13 and is a derivative work of "Portrait of William Shakespeare (1564-1616)" by John Taylor, used here under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Attribution: ShareAlike 4.0 International)
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
